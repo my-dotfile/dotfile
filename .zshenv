@@ -1,1 +1,1 @@
-/Users/zsm/.zprezto/runcoms/zshenv
+.zprezto/runcoms/zshenv
