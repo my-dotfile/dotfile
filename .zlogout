@@ -1,1 +1,1 @@
-/Users/zsm/.zprezto/runcoms/zlogout
+.zprezto/runcoms/zlogout
