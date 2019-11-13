@@ -10,4 +10,4 @@
 
 ## tmux
 
-<https://github.com/samoshkin/tmux-config.git>
+<https://github.com/samoshkin/tmux-config>
