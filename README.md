@@ -1,13 +1,13 @@
 # My dotfile
 
-## vim
-
-<https://github.com/spf13/spf13-vim>
-
 ## zsh
 
 <https://github.com/ohmyzsh/ohmyzsh>
 
+## vim
+
+<https://github.com/my-dotfile/my-vim>
+
 ## tmux
 
-<https://github.com/samoshkin/tmux-config>
+<https://github.com/my-dotfile/my-tmux>
